@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, Good afternoon
+=======
+Hello
+>>>>>>> F2
